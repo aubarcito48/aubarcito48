@@ -16,6 +16,8 @@ I have experience working with frontend and backend technologies, WordPress deve
  
  - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
 
+
+
 ## Tech Stack
 
 ### Frontend
