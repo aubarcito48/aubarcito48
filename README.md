@@ -1,24 +1,20 @@
-# Hi, I'm Nahuel Argandoña 👋
+## **Hi, I'm Nahuel Argandoña 👋**
 
-### Full-Stack Developer | Software Development Student | QA Enthusiast
+Full-Stack Developer | Software Development Student | QA Enthusiast
 
-<p align="center">
-  <img src="assets/profile.png" alt="Nahuel Argandoña" width="180" />
-</p>
+<img src="assets/profile.png" alt="Nahuel Argandoña" width="300" align="right" />
 
-I'm a software developer from Córdoba, Argentina, currently finishing my **Higher Technical Degree in Software Development at ISPC**.
+I'm a software developer from Córdoba, Argentina, currently finishing my Higher Technical Degree in Software Development at ISPC.
 
 I enjoy building web applications, solving technical problems, integrating APIs, and exploring software quality and automated testing.
 
 I have experience working with frontend and backend technologies, WordPress development, and IT technical support. I'm currently focused on growing as a developer and contributing to real-world projects.
 
--  Location: Córdoba, Argentina
--  Education: Software Development — ISPC
--  Interests: Full-Stack Development, QA Automation, and Web Technologies
--  Currently working on: Personal projects and improving my development skills
--  Languages: Spanish (Native) · English (B2)
-
----
+ - **Location:** Córdoba, Argentina
+ 
+ - **Languages:** Spanish (Native) · English (B2)
+ 
+ - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
 
 ##  Tech Stack
 
@@ -49,9 +45,7 @@ I have experience working with frontend and backend technologies, WordPress deve
 
 ### Software Quality
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![QA Testing](https://img.shields.io/badge/QA_Testing-0A7EA4?style=for-the-badge)
-
----
+![Playwright](https://img.shields.io/badge/Playwright-0A7EA4?style=for-the-badge)
 
 ##  Featured Project
 
@@ -66,8 +60,6 @@ The project combines frontend and backend development, API integration, authenti
 -  **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
 
 **Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
-
----
 
 ##  Experience
 
@@ -90,8 +82,6 @@ The project combines frontend and backend development, API integration, authenti
 - Provided technical support in an organizational environment.
 - Assisted with troubleshooting and resolving IT-related issues.
 
----
-
 ##  Education
 
 **Higher Technical Degree in Software Development**  
@@ -106,12 +96,3 @@ xAcademy / Santex Group — Technology with Purpose (2024)
 
 **Full-Stack Web Development Bootcamp**  
 Fundación Formar / Digital House (2023)
-
----
-
-##  Connect With Me
-
--  **GitHub:** [@aubarcito48](https://github.com/aubarcito48)
--  **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
--  [PintaEbook — Live Demo](https://pinta-ebook-eta.vercel.app/)
-
