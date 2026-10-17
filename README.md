@@ -61,6 +61,16 @@ The project combines frontend and backend development, API integration, authenti
 
 **Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
 
+### Personal Portfolio
+
+My personal portfolio, showcasing my projects, technical skills, education, and professional experience.
+
+- **Repository:** [Portfolio](https://github.com/aubarcito48/portfolio)
+
+### Script Game Priority
+
+- **Repository:** [Script Game Priority](https://github.com/aubarcito48/script-game-priority)
+
 ##  Experience
 
 ### Web Development Intern — DGES
