@@ -2,7 +2,7 @@
 
 Full-Stack Developer | Software Development Student | QA Enthusiast
 
-<img src="assets/profile.png" alt="Nahuel Argandoña" width="380" align="right" />
+<img src="assets/profile.png" alt="Nahuel Argandoña" width="360" align="right" />
 
 I'm a software developer from Córdoba, Argentina, currently finishing my Higher Technical Degree in Software Development at ISPC.
 
