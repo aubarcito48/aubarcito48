@@ -114,10 +114,32 @@ xAcademy / Santex Group — Technology with Purpose (2024)
 Fundación Formar / Digital House (2023)
 
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aubarcito48&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubarcito48&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="Top Languages" />
-    </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight&card_width=320"
+          width="100%"
+          alt="GitHub Streak Stats"
+        />
+      </td>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=aubarcito48&show_icons=true&theme=tokyonight&card_width=320"
+          width="100%"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubarcito48&layout=compact&theme=tokyonight&langs_count=6&card_width=320"
+          width="100%"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
