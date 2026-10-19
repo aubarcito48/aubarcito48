@@ -113,6 +113,11 @@ xAcademy / Santex Group — Technology with Purpose (2024)
 **Full-Stack Web Development Bootcamp**  
 Fundación Formar / Digital House (2023)
 
+
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aubarcito48&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubarcito48&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="Top Languages" />
+    </div>
 </div>
