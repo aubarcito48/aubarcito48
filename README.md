@@ -1,4 +1,6 @@
-## **Hi, I'm Nahuel Argandoña 👋**
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Nahuel+Argando%C3%B1a&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Banner de Nahuel Argandoña" />
+</p>
 
 Full-Stack Developer | Software Development Student | QA Enthusiast
 
@@ -110,3 +112,7 @@ xAcademy / Santex Group — Technology with Purpose (2024)
 
 **Full-Stack Web Development Bootcamp**  
 Fundación Formar / Digital House (2023)
+
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight" height="170" />
+</div>
