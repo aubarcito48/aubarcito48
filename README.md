@@ -64,7 +64,8 @@ The project combines frontend and backend development, API integration, authenti
 
 My personal portfolio, showcasing my projects, technical skills, education, and professional experience.
 
-- **Repository:** [Portfolio](https://github.com/aubarcito48/portfolio)
+- **Repository:** [Portfolio frontend](https://github.com/aubarcito48/portfolio)
+- **Repository:** [Portfolio backend](https://github.com/aubarcito48/portfolio_backend)
 
 ### Script Game Priority
 
