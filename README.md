@@ -15,7 +15,7 @@ I have experience working with frontend and backend technologies, WordPress deve
  - **Languages:** Spanish (Native) · English (B2)
  
  - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
-
+ - **Portfolio:** [Portfolio](https://portfolio-nahuel48.vercel.app/)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
