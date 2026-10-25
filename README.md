@@ -69,13 +69,16 @@ My personal portfolio, showcasing my projects, technical skills, education, and 
 - **Repository:** [Portfolio frontend](https://github.com/aubarcito48/portfolio)
 - **Repository:** [Portfolio backend](https://github.com/aubarcito48/portfolio_backend)
 
+
 ### Script Game Priority
 
 - **Repository:** [Script Game Priority](https://github.com/aubarcito48/script-game-priority)
 
 ### App clima
 
-- **Demo:** [App clima](https://appclimanahuel.netlify.app/)
+- **Repository:** [Portfolio frontend](https://github.com/aubarcito48/app-clima)
+- **Repository:** [Portfolio backend](https://github.com/aubarcito48/app-clima-backend)
+- **Demo:** [App clima](https://app-clima-ecru.vercel.app/)
 
 ##  Experience
 
