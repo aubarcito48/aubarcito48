@@ -68,7 +68,7 @@ My personal portfolio, showcasing my projects, technical skills, education, and 
 
 - **Repository:** [Portfolio frontend](https://github.com/aubarcito48/portfolio)
 - **Repository:** [Portfolio backend](https://github.com/aubarcito48/portfolio_backend)
-
+-  **Live Demo:** [Portfolio](https://portfolio-nahuel48.vercel.app/)
 
 ### Script Game Priority
 
@@ -78,7 +78,7 @@ My personal portfolio, showcasing my projects, technical skills, education, and 
 
 - **Repository:** [Portfolio frontend](https://github.com/aubarcito48/app-clima)
 - **Repository:** [Portfolio backend](https://github.com/aubarcito48/app-clima-backend)
-- **Demo:** [App clima](https://app-clima-ecru.vercel.app/)
+-  **Live Demo:** [App clima](https://app-clima-ecru.vercel.app/)
 
 ##  Experience
 
