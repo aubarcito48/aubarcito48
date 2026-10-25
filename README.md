@@ -56,9 +56,9 @@ A web platform for books and ebooks developed as part of the **ISPC / ProCoders*
 
 The project combines frontend and backend development, API integration, authentication, and AI-assisted functionality.
 
--  **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
 -  **Frontend Repository:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
 -  **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
+-  **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
 
 **Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
 
@@ -68,7 +68,7 @@ My personal portfolio, showcasing my projects, technical skills, education, and 
 
 - **Repository:** [Portfolio frontend](https://github.com/aubarcito48/portfolio)
 - **Repository:** [Portfolio backend](https://github.com/aubarcito48/portfolio_backend)
--  **Live Demo:** [Portfolio](https://portfolio-nahuel48.vercel.app/)
+-  **Live Demo:** [Visit Portfolio](https://portfolio-nahuel48.vercel.app/)
 
 ### Script Game Priority
 
@@ -78,7 +78,7 @@ My personal portfolio, showcasing my projects, technical skills, education, and 
 
 - **Repository:** [Portfolio frontend](https://github.com/aubarcito48/app-clima)
 - **Repository:** [Portfolio backend](https://github.com/aubarcito48/app-clima-backend)
--  **Live Demo:** [App clima](https://app-clima-ecru.vercel.app/)
+-  **Live Demo:** [Visit App clima](https://app-clima-ecru.vercel.app/)
 
 ##  Experience
 
