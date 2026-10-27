@@ -117,10 +117,10 @@ xAcademy / Santex Group — Technology with Purpose (2024)
 Fundación Formar / Digital House (2023)
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aubarcito48&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubarcito48&layout=compact&theme=transparent&bg_color=161b22&langs_count=8&card_width=495&hide_border=true" width="430" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aubarcito48&show_icons=true&theme=transparent&bg_color=161b22&hide_border=true" height="170" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubarcito48&layout=compact&theme=tokyonight&langs_count=8&card_width=495" width="430" height="170" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubarcito48&theme=transparent&hide_border=true" height="170" alt="GitHub Streak Stats" />
 </div>
