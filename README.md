@@ -50,15 +50,15 @@ I have experience working with frontend and backend technologies, WordPress deve
 
 ##  Featured Project
 
-###  PintaEbook
+### PintaEbook
 
 A web platform for books and ebooks developed as part of the **ISPC / ProCoders** team project.
 
 The project combines frontend and backend development, API integration, authentication, and AI-assisted functionality.
 
--  **Frontend Repository:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
--  **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
--  **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
+- **Frontend Repository:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
+- **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
+- **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
 
 **Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
 
@@ -66,19 +66,45 @@ The project combines frontend and backend development, API integration, authenti
 
 My personal portfolio, showcasing my projects, technical skills, education, and professional experience.
 
-- **Repository:** [Portfolio frontend](https://github.com/aubarcito48/portfolio)
-- **Repository:** [Portfolio backend](https://github.com/aubarcito48/portfolio_backend)
--  **Live Demo:** [Visit Portfolio](https://portfolio-nahuel48.vercel.app/)
+The project includes a frontend and backend architecture, bringing together personal information, project showcases, and professional presentation in a web application.
+
+- **Frontend Repository:** [Portfolio Frontend](https://github.com/aubarcito48/portfolio)
+- **Backend Repository:** [Portfolio Backend](https://github.com/aubarcito48/portfolio_backend)
+- **Live Demo:** [Visit Portfolio](https://portfolio-nahuel48.vercel.app/)
+
+**Technologies:** Frontend Development · Backend Development · REST APIs · Git · GitHub
 
 ### Script Game Priority
 
+A game-related project focused on implementing game priority logic through scripts.
+
+The project explores programming logic and scripting to organize or manage priorities within a game-related workflow.
+
 - **Repository:** [Script Game Priority](https://github.com/aubarcito48/script-game-priority)
 
-### App clima
+**Technologies:** Scripting · Programming Logic · Git · GitHub
 
-- **Repository:** [Portfolio frontend](https://github.com/aubarcito48/app-clima)
-- **Repository:** [Portfolio backend](https://github.com/aubarcito48/app-clima-backend)
--  **Live Demo:** [Visit App clima](https://app-clima-ecru.vercel.app/)
+### App Clima
+
+A weather application developed with a separate frontend and backend, designed to provide weather-related information through a web interface.
+
+The project combines frontend development, backend functionality, and API integration to retrieve and display weather data.
+
+- **Frontend Repository:** [App Clima Frontend](https://github.com/aubarcito48/app-clima)
+- **Backend Repository:** [App Clima Backend](https://github.com/aubarcito48/app-clima-backend)
+- **Live Demo:** [Visit App Clima](https://app-clima-ecru.vercel.app/)
+
+**Technologies:** Frontend Development · Backend Development · REST APIs · Weather Data Integration · Git · GitHub
+
+### Aubar Bot
+
+A bot development project focused on automation and bot functionality.
+
+The project explores bot development, programming logic, and automated interactions, showcasing my skills in software development and problem-solving.
+
+- **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
+
+**Technologies:** Programming · Bot Development · Git · GitHub
 
 ##  Experience
 
