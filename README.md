@@ -105,6 +105,14 @@ A desktop companion featuring a Kirby avatar on an ESP32-S3 display, with voice 
 
 **Technologies:** Python · C++ · ESP32-S3 · Arduino · Groq API · Voice Recognition · Git · GitHub
 
+### Wokwi Projects
+
+A collection of electronics and embedded systems projects developed and simulated with Wokwi, exploring microcontrollers, circuits, and programming.
+
+- **Wokwi Profile:** [View my projects](https://wokwi.com/makers/aubar48)
+
+**Technologies:** C++ · Arduino · ESP32 · Embedded Systems · Electronics Simulation
+
 ##  Experience
 
 ### Web Development Intern — DGES
