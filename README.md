@@ -98,13 +98,11 @@ The project combines frontend development, backend functionality, and API integr
 
 ### Aubar Bot
 
-A bot development project focused on automation and bot functionality.
-
-The project explores bot development, programming logic, and automated interactions, showcasing my skills in software development and problem-solving.
+A desktop companion featuring a Kirby avatar on an ESP32-S3 display, with voice control, AI-powered conversations, animated expressions, and YouTube automation.
 
 - **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
 
-**Technologies:** Programming · Bot Development · Git · GitHub
+**Technologies:** Python · C++ · ESP32-S3 · Arduino · Groq API · Voice Recognition · Git · GitHub
 
 ##  Experience
 
