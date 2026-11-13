@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="26" viewBox="0 0 115 26" role="img" aria-label="Portfolio">
+<rect x=".5" y=".5" width="114" height="25" rx="4" fill="#19364d" stroke="#668096"/>
+<path d="M4 1h24v24H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3" fill="#087c91"/>
+<circle cx="14" cy="13" r="8" fill="none" stroke="white"/><ellipse cx="14" cy="13" rx="4" ry="8" fill="none" stroke="white"/><path d="M6 13h16" stroke="white"/>
+<text x="71.5" y="17" text-anchor="middle" fill="#fff" font-family="Verdana,Arial,sans-serif" font-size="11" font-weight="bold">Portfolio</text>
+</svg>

@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Nahuel+Argando%C3%B1a&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Banner de Nahuel Argandoña" />
 </p>
 
+<p align="left">Choose your preferred README language.</p>
+<p align="left">
+  <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
+  <a href="README.es.md" title="Leer en español"><img src="assets/badges/spanish.svg" alt="Español" height="26" /></a>
+</p>
+
+
 Full-Stack Developer | Software Development Student | QA Enthusiast
 
 <img src="assets/profile.png" alt="Nahuel Argandoña" width="380" align="right" />
@@ -16,9 +23,12 @@ I have experience working with frontend and backend technologies, WordPress deve
  
  - **Languages:** Spanish (Native) · English (B2)
  
- - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
- - **Portfolio:** [Portfolio](https://portfolio-nahuel48.vercel.app/)
- - **Curriculum Vitae:** [Español](https://drive.google.com/file/d/1Y24Qqs4Be3twPaFE7_Y1Fkk89YGlbLYe/view?usp=sharing) | [Ingles](https://drive.google.com/file/d/1sA7CrGlnX3rSwsffLnBrR9BJzgM-JNUK/view?usp=sharing)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aubar48/" title="LinkedIn"><img src="assets/badges/linkedin.svg" alt="LinkedIn: Nahuel Argandoña" height="26" /></a>
+  <a href="https://portfolio-nahuel48.vercel.app/" title="Portfolio"><img src="assets/badges/portfolio.svg" alt="Portfolio" height="26" /></a>
+  <a href="https://drive.google.com/file/d/1Y24Qqs4Be3twPaFE7_Y1Fkk89YGlbLYe/view?usp=sharing" title="CV en español"><img src="assets/badges/cv-es.svg" alt="CV en español" height="26" /></a>
+  <a href="https://drive.google.com/file/d/1sA7CrGlnX3rSwsffLnBrR9BJzgM-JNUK/view?usp=sharing" title="CV in English"><img src="assets/badges/cv-en.svg" alt="CV in English" height="26" /></a>
+</p>
  
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -99,7 +109,7 @@ The project combines frontend development, backend functionality, and API integr
 
 ### Aubar Bot
 
-A desktop companion featuring a Kirby avatar on an ESP32-S3 display, with voice control, AI-powered conversations, animated expressions, and YouTube automation.
+A desktop companion featuring a custom animated 3D avatar on an ESP32-S3 display, with voice control, AI-powered conversations, animated expressions, and YouTube automation.
 
 - **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
 
