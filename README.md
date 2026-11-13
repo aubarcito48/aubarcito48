@@ -23,12 +23,9 @@ I have experience working with frontend and backend technologies, WordPress deve
  
  - **Languages:** Spanish (Native) · English (B2)
  
-<p align="left">
-  <a href="https://www.linkedin.com/in/aubar48/" title="LinkedIn"><img src="assets/badges/linkedin.svg" alt="LinkedIn: Nahuel Argandoña" height="26" /></a>
-  <a href="https://portfolio-nahuel48.vercel.app/" title="Portfolio"><img src="assets/badges/portfolio.svg" alt="Portfolio" height="26" /></a>
-  <a href="https://drive.google.com/file/d/1Y24Qqs4Be3twPaFE7_Y1Fkk89YGlbLYe/view?usp=sharing" title="CV en español"><img src="assets/badges/cv-es.svg" alt="CV en español" height="26" /></a>
-  <a href="https://drive.google.com/file/d/1sA7CrGlnX3rSwsffLnBrR9BJzgM-JNUK/view?usp=sharing" title="CV in English"><img src="assets/badges/cv-en.svg" alt="CV in English" height="26" /></a>
-</p>
+ - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
+ - **Portfolio:** [Portfolio](https://portfolio-nahuel48.vercel.app/)
+ - **Curriculum Vitae:** [Spanish](https://drive.google.com/file/d/1Y24Qqs4Be3twPaFE7_Y1Fkk89YGlbLYe/view?usp=sharing) | [English](https://drive.google.com/file/d/1sA7CrGlnX3rSwsffLnBrR9BJzgM-JNUK/view?usp=sharing)
  
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
