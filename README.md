@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" />
+  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="400px" />
 </p>
 
-<p align="left">Choose your preferred README language.</p>
 <p align="left">
   <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
   <a href="README.es.md" title="Leer en español"><img src="assets/badges/spanish.svg" alt="Español" height="26" /></a>
