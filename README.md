@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="200px" />
+  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="268px" />
 </p>
 
 <p align="left">
