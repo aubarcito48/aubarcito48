@@ -2,9 +2,6 @@
   <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" />
 </p>
 
-<h1 align="center">NAHUEL ARGANDOÑA</h1>
-<h3 align="center">Full-Stack Developer · Software, AI and Embedded Systems</h3>
-
 <p align="left">Choose your preferred README language.</p>
 <p align="left">
   <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
@@ -12,7 +9,7 @@
 </p>
 
 
-Full-Stack Developer | Software Development Student | QA Enthusiast
+Full-Stack Developer · Software, AI and Embedded Systems · QA Enthusiast
 
 <img src="assets/profile.png" alt="Nahuel Argandoña" width="380" align="right" />
 
