@@ -1,6 +1,9 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Nahuel+Argando%C3%B1a&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Banner de Nahuel Argandoña" />
+<p align="center">
+  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" />
 </p>
+
+<h1 align="center">NAHUEL ARGANDOÑA</h1>
+<h3 align="center">Full-Stack Developer · Software, AI and Embedded Systems</h3>
 
 <p align="left">Choose your preferred README language.</p>
 <p align="left">
