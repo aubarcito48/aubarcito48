@@ -2,11 +2,12 @@
   <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="268px" />
 </p>
 
+<h1 align="center">NAHUEL ARGANDOÑA</h1>
+
 <p align="left">
   <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
   <a href="README.es.md" title="Leer en español"><img src="assets/badges/spanish.svg" alt="Español" height="26" /></a>
 </p>
-
 
 Full-Stack Developer · Software, AI and Embedded Systems · QA Enthusiast
 
@@ -19,7 +20,6 @@ I enjoy building web applications, solving technical problems, integrating APIs,
 I have experience working with frontend and backend technologies, WordPress development, and IT technical support. I'm currently focused on growing as a developer and contributing to real-world projects.
 
  - **Location:** Córdoba, Argentina
- 
  - **Languages:** Spanish (Native) · English (B2)
  
  - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
