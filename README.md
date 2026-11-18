@@ -81,6 +81,52 @@ The project includes a frontend and backend architecture, bringing together pers
 
 **Technologies:** Frontend Development · Backend Development · REST APIs · Git · GitHub
 
+### StitchWeather — AI-Powered Weather Application
+
+StitchWeather is a personal project that combines weather data, artificial intelligence, and interactive voice-based experiences into a web application.
+
+The application integrates a custom Machine Learning sound classifier to coordinate Isa, an animated AI assistant, with voice interactions, speech patterns, pauses, and visual expressions.
+
+The project focuses on combining modern web development with AI-driven interaction to create a more engaging and dynamic weather experience.
+
+- **Frontend Repository:** [App Clima Frontend](https://github.com/aubarcito48/app-clima)
+- **Backend Repository:** [App Clima Backend](https://github.com/aubarcito48/app-clima-backend)
+- **Live Demo:** [Visit App Clima](https://app-clima-ecru.vercel.app/)
+
+**Technologies:** Angular · Python · REST APIs · Machine Learning · Artificial Intelligence · Voice Recognition · Weather Data Integration · Git · GitHub
+
+### Aubar Bot — AI-Powered Desktop Companion
+
+Aubar Bot is a personal project focused on building an interactive desktop companion powered by artificial intelligence, voice recognition, and embedded systems.
+
+The project integrates an ESP32-S3 microcontroller with a display featuring a custom animated Kirby avatar, bringing the assistant to life through expressive animations and interactive visual feedback.
+
+It combines AI-powered conversations, voice control, animated expressions, and YouTube automation, connecting hardware and software to create a more interactive desktop experience.
+
+Key Features:
+
+AI Conversations: Interactive conversations powered by Groq API.
+
+Voice Recognition: Voice-based interaction and command processing.
+
+Animated Avatar: Custom expressions and visual animations displayed on an ESP32-S3 screen.
+
+Desktop Automation: YouTube-related automation and assistant functionalities.
+
+Embedded Systems: Integration between Python, C++, and ESP32-S3 hardware.
+
+- **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
+
+Technologies: Python · C++ · ESP32-S3 · Arduino · Groq API · Voice Recognition · Embedded Systems · Artificial Intelligence · Git · GitHub
+
+### Wokwi Projects
+
+A collection of electronics and embedded systems projects developed and simulated with Wokwi, exploring microcontrollers, circuits, and programming.
+
+- **Wokwi Profile:** [View my projects](https://wokwi.com/makers/aubar48)
+
+**Technologies:** C++ · Arduino · ESP32 · Embedded Systems · Electronics Simulation
+
 ### Script Game Priority
 
 A game-related project focused on implementing game priority logic through scripts.
@@ -90,34 +136,6 @@ The project explores programming logic and scripting to organize or manage prior
 - **Repository:** [Script Game Priority](https://github.com/aubarcito48/script-game-priority)
 
 **Technologies:** Scripting · Programming Logic · Git · GitHub
-
-### App Clima
-
-A weather application developed with a separate frontend and backend, designed to provide weather-related information through a web interface.
-
-The project combines frontend development, backend functionality, and API integration to retrieve and display weather data.
-
-- **Frontend Repository:** [App Clima Frontend](https://github.com/aubarcito48/app-clima)
-- **Backend Repository:** [App Clima Backend](https://github.com/aubarcito48/app-clima-backend)
-- **Live Demo:** [Visit App Clima](https://app-clima-ecru.vercel.app/)
-
-**Technologies:** Frontend Development · Backend Development · REST APIs · Weather Data Integration · Git · GitHub
-
-### Aubar Bot
-
-A desktop companion featuring a custom animated 3D avatar on an ESP32-S3 display, with voice control, AI-powered conversations, animated expressions, and YouTube automation.
-
-- **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
-
-**Technologies:** Python · C++ · ESP32-S3 · Arduino · Groq API · Voice Recognition · Git · GitHub
-
-### Wokwi Projects
-
-A collection of electronics and embedded systems projects developed and simulated with Wokwi, exploring microcontrollers, circuits, and programming.
-
-- **Wokwi Profile:** [View my projects](https://wokwi.com/makers/aubar48)
-
-**Technologies:** C++ · Arduino · ESP32 · Embedded Systems · Electronics Simulation
 
 ##  Experience
 
