@@ -3,16 +3,13 @@
 </p>
 
 <h1 align="center">NAHUEL ARGANDOÑA</h1>
-<h3 align="center">Desarrollador Full Stack · Software, IA y sistemas embebidos</h3>
 
-<p align="left">Cambiá el idioma del README según tu preferencia.</p>
 <p align="left">
   <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
   <a href="README.es.md" title="Leer en español"><img src="assets/badges/spanish.svg" alt="Español" height="26" /></a>
 </p>
 
-
-Desarrollador Full Stack | Estudiante de Desarrollo de Software | Entusiasta de QA
+Desarrollador Full Stack | IA y sistemas embebidos | Entusiasta de QA
 
 <img src="assets/profile.png" alt="Nahuel Argandoña" width="380" align="right" />
 
@@ -23,7 +20,6 @@ Disfruto crear aplicaciones web, resolver problemas técnicos, integrar APIs y e
 Tengo experiencia con tecnologías frontend y backend, desarrollo en WordPress y soporte técnico informático. Actualmente busco seguir creciendo como desarrollador y contribuir a proyectos reales.
 
  - **Ubicación:** Córdoba, Argentina
-
  - **Idiomas:** Español (nativo) · Inglés (B2)
 
  - **LinkedIn:** [Nahuel Argandoña](https://www.linkedin.com/in/aubar48/)
@@ -60,18 +56,6 @@ Tengo experiencia con tecnologías frontend y backend, desarrollo en WordPress y
 ![Playwright](https://img.shields.io/badge/Playwright-0A7EA4?style=flat)
 
 ## Proyectos destacados
-
-### PintaEbook
-
-Una plataforma web de libros y ebooks desarrollada como parte del proyecto en equipo de **ISPC / ProCoders**.
-
-El proyecto combina desarrollo frontend y backend, integración de APIs, autenticación y funcionalidades asistidas por IA.
-
-- **Repositorio frontend:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
-- **Repositorio backend:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
-- **Demo en línea:** [Visitar PintaEbook](https://pinta-ebook-eta.vercel.app/)
-
-**Tecnologías:** Angular · Python · Django · REST APIs · Git · GitHub
 
 ### Portfolio personal
 
@@ -122,6 +106,18 @@ Sistemas embebidos: Integración de Python, C++ y hardware ESP32-S3.
 - **Repositorio:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
 
 Tecnologías: Python · C++ · ESP32-S3 · Arduino · Groq API · Reconocimiento de voz · Sistemas embebidos · Inteligencia artificial · Git · GitHub
+
+### PintaEbook
+
+Una plataforma web de libros y ebooks desarrollada como parte del proyecto en equipo de **ISPC / ProCoders**.
+
+El proyecto combina desarrollo frontend y backend, integración de APIs, autenticación y funcionalidades asistidas por IA.
+
+- **Repositorio frontend:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
+- **Repositorio backend:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
+- **Demo en línea:** [Visitar PintaEbook](https://pinta-ebook-eta.vercel.app/)
+
+**Tecnologías:** Angular · Python · Django · REST APIs · Git · GitHub
 
 ### Proyectos en Wokwi
 
