@@ -57,18 +57,6 @@ I have experience working with frontend and backend technologies, WordPress deve
 
 ##  Featured Project
 
-### PintaEbook
-
-A web platform for books and ebooks developed as part of the **ISPC / ProCoders** team project.
-
-The project combines frontend and backend development, API integration, authentication, and AI-assisted functionality.
-
-- **Frontend Repository:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
-- **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
-- **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
-
-**Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
-
 ### Personal Portfolio
 
 My personal portfolio, showcasing my projects, technical skills, education, and professional experience.
@@ -118,6 +106,18 @@ Embedded Systems: Integration between Python, C++, and ESP32-S3 hardware.
 - **Repository:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
 
 Technologies: Python · C++ · ESP32-S3 · Arduino · Groq API · Voice Recognition · Embedded Systems · Artificial Intelligence · Git · GitHub
+
+### PintaEbook
+
+A web platform for books and ebooks developed as part of the **ISPC / ProCoders** team project.
+
+The project combines frontend and backend development, API integration, authentication, and AI-assisted functionality.
+
+- **Frontend Repository:** [PintaEbook](https://github.com/ISPC-ProCoders-2026/PintaEbook)
+- **Backend Repository:** [PintaEbook Backend](https://github.com/ISPC-ProCoders-2026/Pintaebook_backend)
+- **Live Demo:** [Visit PintaEbook](https://pinta-ebook-eta.vercel.app/)
+
+**Technologies:** Angular · Python · Django · REST APIs · Git · GitHub
 
 ### Wokwi Projects
 
