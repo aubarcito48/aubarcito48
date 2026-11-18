@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-cielo-nocturno.gif" alt="Cielo nocturno animado con nubes, estrellas y una pradera" width="100%" />
+  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="268px" />
 </p>
 
 <h1 align="center">NAHUEL ARGANDOÑA</h1>
@@ -85,6 +85,52 @@ El proyecto tiene una arquitectura frontend y backend que reúne mi información
 
 **Tecnologías:** Desarrollo frontend · Desarrollo backend · REST APIs · Git · GitHub
 
+### StitchWeather — Aplicación meteorológica con inteligencia artificial
+
+StitchWeather es un proyecto personal que combina datos meteorológicos, inteligencia artificial y experiencias interactivas basadas en voz dentro de una aplicación web.
+
+La aplicación integra un clasificador de sonidos desarrollado mediante Machine Learning para coordinar las interacciones de voz de Isa, una asistente virtual animada, con sus patrones de habla, pausas y expresiones visuales.
+
+El proyecto busca combinar el desarrollo web moderno con interacciones impulsadas por inteligencia artificial, ofreciendo una experiencia meteorológica más dinámica, intuitiva e interactiva.
+
+- **Repositorio frontend:** [App Clima Frontend](https://github.com/aubarcito48/app-clima)
+- **Repositorio backend:** [App Clima Backend](https://github.com/aubarcito48/app-clima-backend)
+- **Demo en línea:** [Visitar App Clima](https://app-clima-ecru.vercel.app/)
+
+Tecnologías: Angular · Python · APIs REST · Machine Learning · Inteligencia artificial · Reconocimiento de voz · Integración de datos meteorológicos · Git · GitHub
+
+### Aubar Bot — Asistente de escritorio con inteligencia artificial
+
+Aubar Bot es un proyecto personal enfocado en el desarrollo de un compañero interactivo de escritorio, impulsado por inteligencia artificial, reconocimiento de voz y sistemas embebidos.
+
+El proyecto integra un microcontrolador ESP32-S3 con una pantalla que presenta un avatar animado personalizado de Kirby, dando vida al asistente mediante expresiones animadas y respuestas visuales interactivas.
+
+Combina conversaciones impulsadas por IA, control por voz, expresiones animadas y automatización de YouTube, conectando hardware y software para crear una experiencia de escritorio más interactiva.
+
+Características principales:
+
+Conversaciones con IA: Interacciones inteligentes mediante la API de Groq.
+
+Reconocimiento de voz: Interacción por voz y procesamiento de comandos.
+
+Avatar animado: Expresiones personalizadas y animaciones visuales en una pantalla ESP32-S3.
+
+Automatización de escritorio: Automatización de funcionalidades relacionadas con YouTube.
+
+Sistemas embebidos: Integración de Python, C++ y hardware ESP32-S3.
+
+- **Repositorio:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
+
+Tecnologías: Python · C++ · ESP32-S3 · Arduino · Groq API · Reconocimiento de voz · Sistemas embebidos · Inteligencia artificial · Git · GitHub
+
+### Proyectos en Wokwi
+
+Una colección de proyectos de electrónica y sistemas embebidos desarrollados y simulados en Wokwi, para explorar microcontroladores, circuitos y programación.
+
+- **Perfil de Wokwi:** [Ver mis proyectos](https://wokwi.com/makers/aubar48)
+
+**Tecnologías:** C++ · Arduino · ESP32 · Sistemas embebidos · Simulación electrónica
+
 ### Script Game Priority
 
 Un proyecto orientado a implementar lógica de prioridades para juegos mediante scripts.
@@ -94,34 +140,6 @@ El proyecto explora lógica de programación y scripting para organizar y gestio
 - **Repositorio:** [Script Game Priority](https://github.com/aubarcito48/script-game-priority)
 
 **Tecnologías:** Scripting · Lógica de programación · Git · GitHub
-
-### App Clima
-
-Una aplicación del clima con frontend y backend separados, diseñada para consultar información meteorológica desde una interfaz web.
-
-El proyecto combina desarrollo frontend, funcionalidades backend e integración de APIs para obtener y mostrar datos del clima.
-
-- **Repositorio frontend:** [App Clima Frontend](https://github.com/aubarcito48/app-clima)
-- **Repositorio backend:** [App Clima Backend](https://github.com/aubarcito48/app-clima-backend)
-- **Demo en línea:** [Visitar App Clima](https://app-clima-ecru.vercel.app/)
-
-**Tecnologías:** Desarrollo frontend · Desarrollo backend · REST APIs · Integración de datos meteorológicos · Git · GitHub
-
-### Aubar Bot
-
-Un compañero de escritorio con un avatar 3D animado personalizado en una pantalla ESP32-S3, control por voz, conversaciones con IA, expresiones animadas y automatización de YouTube.
-
-- **Repositorio:** [Aubar Bot](https://github.com/aubarcito48/aubar-bot)
-
-**Tecnologías:** Python · C++ · ESP32-S3 · Arduino · Groq API · Reconocimiento de voz · Git · GitHub
-
-### Proyectos en Wokwi
-
-Una colección de proyectos de electrónica y sistemas embebidos desarrollados y simulados en Wokwi, para explorar microcontroladores, circuitos y programación.
-
-- **Perfil de Wokwi:** [Ver mis proyectos](https://wokwi.com/makers/aubar48)
-
-**Tecnologías:** C++ · Arduino · ESP32 · Sistemas embebidos · Simulación electrónica
 
 ## Experiencia
 
