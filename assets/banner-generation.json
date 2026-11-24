@@ -1,0 +1,17 @@
+{
+  "method": "Built-in imagegen",
+  "selectedForeground": "banner-profile-overlay.png",
+  "reference": "idea.png supplied by the user; layout reference only",
+  "originalAnimation": "banner-cielo-nocturno.gif",
+  "finalAnimation": "banner-perfil-animado.gif",
+  "prompt": "Create a professional, refined GitHub developer profile banner FOREGROUND OVERLAY ONLY, on a genuinely transparent background, in a wide 12:5 landscape aspect ratio. Reference image 1 (idea.png) is a layout reference only: use its clear name hierarchy, concise professional introduction, compact skills row and right-hand contact grouping. Reference image 2 is the existing animated sky backdrop that will remain unchanged; DO NOT draw or include any landscape, sky, mountains, hills, clouds or opaque full-canvas background in your output. Design the foreground to remain very legible over that animated BLUE night-sky backdrop. Use crisp white typography, pale icy blue secondary text, restrained turquoise accent #71E1CE, and subtle translucent navy panels behind smaller copy. Do not copy the reference person's identity or information. All content must use ONLY this exact information: Top small greeting 'Hola, soy'; primary large name 'Nahuel Argando?a' (? with tilde, surname one word); role 'Desarrollador Full Stack'; secondary line 'Software, IA y sistemas embebidos'; three compact skill blocks at bottom: 'Frontend' with 'Angular ? TypeScript', 'Backend' with 'Python ? Django', 'Calidad' with 'Playwright ? Cypress'. On the right, heading 'C?rdoba, Argentina'; beneath it clean recognizable GitHub, LinkedIn and web icons with readable labels 'github.com/aubarcito48', 'linkedin.com/in/aubar48', 'portfolio-nahuel48.vercel.app'. Use clean modern sans-serif lettering with substantial size, generous safe margins, no tiny fine print. The name and introduction occupy the left 65%, contacts the right 30%, with ample separation. One composed graphic, not multiple mockups. No decorative quotation, no invented claims, no extra text, no portraits. The final output must have a transparent alpha channel, including around the foreground panel shapes.",
+  "composition": {
+    "width": 1120,
+    "height": 480,
+    "frames": 82,
+    "delayMs": 100,
+    "loop": 0,
+    "foregroundStatic": true,
+    "originalAnimationPreserved": true
+  }
+}

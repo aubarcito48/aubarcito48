@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/banner-cielo-nocturno.gif" alt="Animated night sky with clouds, stars and a grassy hillside" width="100%" height="268px" />
+  <img src="assets/banner-perfil-animado.gif" alt="Nahuel Argandoña — Desarrollador Full Stack. Software, IA, sistemas embebidos y calidad. Banner de perfil animado." width="100%" />
 </p>
-
-<h1 align="center">NAHUEL ARGANDOÑA</h1>
 
 <p align="left">
   <a href="README.md" title="Read in English"><img src="assets/badges/english.svg" alt="English" height="26" /></a>
