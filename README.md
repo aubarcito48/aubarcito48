@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-perfil-animado.gif" alt="Nahuel Argandoña — Full Stack Developer. Software, AI, embedded systems and software quality. Animated profile banner." width="100%" />
+  <img src="assets/banner-profile-animated-en.gif" alt="Nahuel Argandoña — Full Stack Developer. Software, AI, embedded systems and software quality. Animated profile banner." width="100%" />
 </p>
 
 <p align="left">
